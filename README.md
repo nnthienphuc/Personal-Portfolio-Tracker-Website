@@ -15,7 +15,7 @@
 
 - Investors (id (auto generate), email, passwordHash, fullName, isActive, isDeleted);
 - AssetTypes (id (auto generate), typeCode, typeName, color, note, isDeleted);
-- Assets (id (auto generate), symbol, name, investorId, assetTypeId, avgUnitPrice, currentQuantity, latestMarketPrice, totalInvestedValue, pnlRate, targetSellPrice (giá bán mong đợi), pnlSellRate, targetBuyPrice (giá mua mong đợi), pnlBuyRate, createdAt, updatedAt, note, isDeleted);
+- Assets (id (auto generate), symbol, name, investorId, assetTypeId, avgUnitPrice, currentQuantity, latestMarketPrice, totalInvestedValue, pnlRate, targetSellPrice (giá bán mong đợi), pnlSellRate, targetBuyPrice (giá mua mong đợi), createdAt, updatedAt, note, isDeleted);
 - Transactions (id (auto generate), investorId, assetId, quantity, unitPrice, grossAmount, feeRate, fee, netAmount, transactionDate, isBuy(true = buy, false = sell), profitOrLoss, profitOrLossRate, note, isDeleted);
 
 ---
@@ -28,7 +28,6 @@
 - avgUnitPrice = (currentQuantity * avgUnitPrice + TransactionCreateDTO.quantity * TransactionCreateDTO.unitPrice) / (currentQuantity + TransactionCreateDTO.quantity) (chỉ áp dụng cho buy, còn sell thì không cần tính vì nó không thay đổi).
 - pnlRate = (latestMarketPrice - avgUnitPrice) / avgUnitPrice * 100 (tính toán lại sau mỗi lần buy or update latestMarketPrice).
 - pnlSellRate = (targetSellPrice - avgUnitPrice) / avgUnitPrice * 100 (tính toán lại sau mỗi lần update buy or update targetSellPrice)
-- pnlBuyRate = (targetBuyPrice - avgUnitPrice) / avgUnitPrice * 100 (tính toán lại sau mỗi lần update buy or update targetBuyPrice)
 - totalInvestedValue = avgUnitPrice * currentQuantity (tính lại sau mỗi lần sell or buy).
 - targetBuyPrice : Do user tự tính toán và ghi vào, để khi đạt đến giá đó thì sẽ tạo lệnh mua.
 - targetSellPrice: Do user tự tính toán và ghi vào, để khi đạt đến giá đó thì sẽ tạo lệnh bán.
