@@ -8,7 +8,7 @@
 - Phân tích và tính toán target sell/buy price
 - Quản lý (CRUD) transactions (bao gồm cả mua và bán)
 - Tạo ra dashboard để tính toán tổng tiền đã bỏ ra, tổng tiền đã thu lại, lãi/lỗ, …
--> Tất cả đều quản lý theo từng user.
+<br>-> Tất cả đều quản lý theo từng user.
 
 ---
 
