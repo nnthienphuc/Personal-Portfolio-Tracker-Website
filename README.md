@@ -18,7 +18,7 @@
 - Investors (id (auto generate), email, passwordHash, fullName, isActive, isDeleted);
 - AssetTypes (id (auto generate), typeCode, typeName, color, note, isDeleted);
 - Assets (id (auto generate), symbol, name, investorId, assetTypeId, avgUnitPrice, currentQuantity, currentMarketPrice, totalInvestedValue, currentPnLRate, targetBuyPrice (giá mua mong đợi), targetSellPrice (giá bán mong đợi), targetPnLRate, createdAt, updatedAt, note, isDeleted);
-- Transactions (id (auto generate), investorId, assetId, quantity, unitPrice, grossAmount, feeRate, fee, netAmount, transactionDate, isBuy(true = buy, false = sell), realizedPnL, realizedPnLRate, note, isDeleted);
+- Transactions (id (auto generate), investorId, assetId, quantity, unitPrice, grossAmount, feeRate, fee, netAmount, createdAt, isBuy(true = buy, false = sell), realizedPnL, realizedPnLRate, note, isDeleted);
 
 ---
 
