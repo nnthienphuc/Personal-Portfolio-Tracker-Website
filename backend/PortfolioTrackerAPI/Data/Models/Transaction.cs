@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PortfolioTrackerAPI.Models;
+namespace PortfolioTrackerAPI.Data.Models;
 
 public partial class Transaction
 {

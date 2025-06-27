@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
-using PortfolioTrackerAPI.Models;
+using PortfolioTrackerAPI.Data.Models;
 
 namespace PortfolioTrackerAPI.Data;
 
