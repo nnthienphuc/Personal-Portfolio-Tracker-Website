@@ -1,6 +1,6 @@
 ﻿namespace PortfolioTrackerAPI.Common
 {
-    public class hold
+    public class ExceptionMiddleware
     {
     }
 }
