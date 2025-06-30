@@ -1,0 +1,6 @@
+﻿namespace PortfolioTrackerAPI.Services.AuthService.Implement
+{
+    public class AuthService
+    {
+    }
+}

@@ -1,6 +1,14 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+
 using PortfolioTrackerAPI.Data;
+using PortfolioTrackerAPI.Middlewares;
+using PortfolioTrackerAPI.Services.AuthService.Interfaces;
+using PortfolioTrackerAPI.Services.AuthService.Implement;
+using PortfolioTrackerAPI.Services.EmailService;
 
 var builder = WebApplication.CreateBuilder(new WebApplicationOptions
 {
