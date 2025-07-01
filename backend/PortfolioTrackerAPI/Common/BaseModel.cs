@@ -1,6 +1,6 @@
 ﻿namespace PortfolioTrackerAPI.Common
 {
-    public class ExceptionMiddleware
+    public class BaseModel
     {
     }
 }
