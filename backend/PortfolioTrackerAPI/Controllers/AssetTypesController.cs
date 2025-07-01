@@ -1,12 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using PortfolioTrackerAPI.Common;
 
 namespace PortfolioTrackerAPI.Controllers
 {
-    public class AssetTypesController : Controller
+    public class AssetTypesController : BaseController
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
     }
 }

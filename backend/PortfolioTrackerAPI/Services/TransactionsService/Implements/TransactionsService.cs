@@ -1,6 +1,8 @@
-﻿namespace PortfolioTrackerAPI.Services.TransactionsService.Implements
+﻿using PortfolioTrackerAPI.Services.TransactionsService.Interfaces;
+
+namespace PortfolioTrackerAPI.Services.TransactionsService.Implements
 {
-    public class TransactionsService
+    public class TransactionsService : ITransactionsService
     {
     }
 }

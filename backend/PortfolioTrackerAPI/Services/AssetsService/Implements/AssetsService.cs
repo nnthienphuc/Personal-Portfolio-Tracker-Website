@@ -1,6 +1,8 @@
-﻿namespace PortfolioTrackerAPI.Services.AssetsService.Implements
+﻿using PortfolioTrackerAPI.Services.AssetsService.Interfaces;
+
+namespace PortfolioTrackerAPI.Services.AssetsService.Implements
 {
-    public class AssetsService
+    public class AssetsService : IAssetsService
     {
     }
 }

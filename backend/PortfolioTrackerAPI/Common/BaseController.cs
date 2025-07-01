@@ -1,12 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace PortfolioTrackerAPI.Common
 {
-    public class BaseController : Controller
+    [ApiController]
+    [Route("api/[controller]")]
+    [Authorize]
+    public abstract class BaseController : ControllerBase
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
     }
 }
