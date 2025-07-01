@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\services\\transactionsservice\\implements\\transactionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:services\\transactionsservice\\implements\\transactionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\services\\transactionsservice\\implements\\transactionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:services\\transactionsservice\\implements\\transactionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\services\\assettypesservice\\implements\\assettypesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:services\\assettypesservice\\implements\\assettypesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\services\\assettypesservice\\implements\\assettypesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:services\\assettypesservice\\implements\\assettypesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\services\\assetsservice\\interfaces\\iassetsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:services\\assetsservice\\interfaces\\iassetsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\services\\assetsservice\\interfaces\\iassetsrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:services\\assetsservice\\interfaces\\iassetsrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\services\\assetsservice\\implements\\assetsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:services\\assetsservice\\implements\\assetsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\services\\assetsservice\\implements\\assetsrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:services\\assetsservice\\implements\\assetsrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\data\\models\\investor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:data\\models\\investor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\data\\models\\assettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:data\\models\\assettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\data\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:data\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\controllers\\assettypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:controllers\\assettypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\common\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:common\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|d:\\github\\personal-portfolio-tracker-website\\backend\\portfoliotrackerapi\\data\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22285CA4-853D-47ED-B112-FE1DA518D428}|PortfolioTrackerAPI.csproj|solutionrelative:data\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,19 +95,175 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TransactionsService.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\TransactionsService\\Implements\\TransactionsService.cs",
+              "RelativeDocumentMoniker": "Services\\TransactionsService\\Implements\\TransactionsService.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\TransactionsService\\Implements\\TransactionsService.cs",
+              "RelativeToolTip": "Services\\TransactionsService\\Implements\\TransactionsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:20:41.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsRepository.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\TransactionsService\\Implements\\TransactionsRepository.cs",
+              "RelativeDocumentMoniker": "Services\\TransactionsService\\Implements\\TransactionsRepository.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\TransactionsService\\Implements\\TransactionsRepository.cs",
+              "RelativeToolTip": "Services\\TransactionsService\\Implements\\TransactionsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:20:36.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssetTypesService.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetTypesService\\Implements\\AssetTypesService.cs",
+              "RelativeDocumentMoniker": "Services\\AssetTypesService\\Implements\\AssetTypesService.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetTypesService\\Implements\\AssetTypesService.cs",
+              "RelativeToolTip": "Services\\AssetTypesService\\Implements\\AssetTypesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:20:24.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssetTypesRepository.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetTypesService\\Implements\\AssetTypesRepository.cs",
+              "RelativeDocumentMoniker": "Services\\AssetTypesService\\Implements\\AssetTypesRepository.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetTypesService\\Implements\\AssetTypesRepository.cs",
+              "RelativeToolTip": "Services\\AssetTypesService\\Implements\\AssetTypesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:20:14.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAssetsService.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetsService\\Interfaces\\IAssetsService.cs",
+              "RelativeDocumentMoniker": "Services\\AssetsService\\Interfaces\\IAssetsService.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetsService\\Interfaces\\IAssetsService.cs",
+              "RelativeToolTip": "Services\\AssetsService\\Interfaces\\IAssetsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:20:06.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssetsService.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetsService\\Implements\\AssetsService.cs",
+              "RelativeDocumentMoniker": "Services\\AssetsService\\Implements\\AssetsService.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetsService\\Implements\\AssetsService.cs",
+              "RelativeToolTip": "Services\\AssetsService\\Implements\\AssetsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:19:58.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAssetsRepositoty.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetsService\\Interfaces\\IAssetsRepositoty.cs",
+              "RelativeDocumentMoniker": "Services\\AssetsService\\Interfaces\\IAssetsRepositoty.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetsService\\Interfaces\\IAssetsRepositoty.cs",
+              "RelativeToolTip": "Services\\AssetsService\\Interfaces\\IAssetsRepositoty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:19:50.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssetsRepositoty.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetsService\\Implements\\AssetsRepositoty.cs",
+              "RelativeDocumentMoniker": "Services\\AssetsService\\Implements\\AssetsRepositoty.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Services\\AssetsService\\Implements\\AssetsRepositoty.cs",
+              "RelativeToolTip": "Services\\AssetsService\\Implements\\AssetsRepositoty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:19:47.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Investor.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Data\\Models\\Investor.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Investor.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Data\\Models\\Investor.cs",
+              "RelativeToolTip": "Data\\Models\\Investor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:19:23.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssetType.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Data\\Models\\AssetType.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\AssetType.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Data\\Models\\AssetType.cs",
+              "RelativeToolTip": "Data\\Models\\AssetType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:19:22.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:19:10.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:19:04.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "AssetTypesController.cs",
               "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Controllers\\AssetTypesController.cs",
               "RelativeDocumentMoniker": "Controllers\\AssetTypesController.cs",
-              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Controllers\\AssetTypesController.cs*",
-              "RelativeToolTip": "Controllers\\AssetTypesController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "ToolTip": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Controllers\\AssetTypesController.cs",
+              "RelativeToolTip": "Controllers\\AssetTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T04:18:53.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Asset.cs",
               "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Data\\Models\\Asset.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Asset.cs",
@@ -72,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "BaseController.cs",
               "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Common\\BaseController.cs",
               "RelativeDocumentMoniker": "Common\\BaseController.cs",
@@ -85,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "AssetsController.cs",
               "DocumentMoniker": "D:\\Github\\Personal-Portfolio-Tracker-Website\\backend\\PortfolioTrackerAPI\\Controllers\\AssetsController.cs",
               "RelativeDocumentMoniker": "Controllers\\AssetsController.cs",
