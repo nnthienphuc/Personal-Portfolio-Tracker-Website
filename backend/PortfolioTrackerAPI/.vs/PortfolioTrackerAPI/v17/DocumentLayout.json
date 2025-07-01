@@ -67,8 +67,7 @@
               "RelativeToolTip": "Services\\AuthService\\DTOs\\RegisterDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T04:28:57.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T04:28:57.557Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Services\\AuthService\\DTOs\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T04:28:21.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T04:28:21.45Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Services\\AuthService\\DTOs\\ChangePasswordDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T04:27:02.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T04:27:02.899Z"
             }
           ]
         }
