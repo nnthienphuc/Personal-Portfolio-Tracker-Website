@@ -16,7 +16,7 @@
 
 ## Quick design database:
 
-- Investors (id (auto generate), email, passwordHash, fullName, isActive, isDeleted);
+- Investors (id (auto generate), email, hashPassword, fullName, isActive, isDeleted);
 - AssetTypes (id (auto generate), typeCode, typeName, note, isDeleted);
 - Assets (id (auto generate), symbol, name, investorId, assetTypeId, avgUnitPrice, currentQuantity, currentMarketPrice, totalInvestedValue, currentPnLRate, targetBuyPrice (giá mua mong đợi), targetSellPrice (giá bán mong đợi), targetPnLRate, createdAt, updatedAt, note, isDeleted);
 - Transactions (id (auto generate), assetId, quantity, unitPrice, grossAmount, feeRate, fee, netAmount, createdAt, isBuy(true = buy, false = sell), realizedPnL, realizedPnLRate, note, isDeleted);
