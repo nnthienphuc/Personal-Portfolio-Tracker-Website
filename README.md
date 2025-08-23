@@ -4,10 +4,10 @@
 
 ## Idea:
 
-- Quản lý (CRUD) các mã theo loại (cổ phiếu, quỹ, trái phiếu, crypto, …)
-- Phân tích và tính toán target sell/buy price
-- Quản lý (CRUD) transactions (bao gồm cả mua và bán)
-- Tạo ra dashboard để tính toán tổng tiền đã bỏ ra, tổng tiền đã thu lại, lãi/lỗ,  các danh mục đầu tư
+- Quản lý (CRUD) các mã theo loại (cổ phiếu, quỹ, trái phiếu, crypto, …).
+- Phân tích và tính toán target sell/buy price.
+- Quản lý (CRUD) transactions (bao gồm cả mua và bán).
+- Tạo ra dashboard để tính toán tổng tiền đã bỏ ra, tổng tiền đã thu lại, lãi/lỗ,  các danh mục đầu tư.
 
 ⇨ Note: Tất cả đều quản lý theo từng user.
 
