@@ -18,8 +18,8 @@
 - Investors (id (auto generate), email, hashPassword, fullName, isActive, isDeleted);
 - TickerTypes (id (auto generate), typeCode, note, isDeleted);
 - Tickers (id (auto generate), ticker, name, investorId, tickerTypeId, investmentPrice, quantity, marketPrice, totalInvestedValue, currentPnLRate, targetBuyPrice (giá mua mong đợi), targetSellPrice (giá bán mong đợi), targetPnLRate, createdAt, updatedAt, note, isDeleted);
-- Transactions (id (auto generate),investorId, tickerId, quantity, price, grossAmount, feeRate, fee, netAmount, tradingDate, type, realizedPnL, realizedPnLRate, note, isDeleted);
-
+- Transactions (id (auto generate), investorId, tickerId, quantity, price, grossAmount, feeRate, fee, netAmount, tradingDate, type, realizedPnL, realizedPnLRate, note, isDeleted),
+- AuditLogs (id (auto generate), investorId, action, entityName, entityId, Description, Timestamp, IPAddress, UserAgent);
 ---
 
 ## How to code this project:
